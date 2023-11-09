@@ -1,0 +1,145 @@
+/* Style the header */
+#header {
+    background-color: whitesmoke;
+    color: green;
+    padding: 10px;
+  }
+  
+  /* Style the logo image */
+  #header img {
+    margin-right: 20px;
+  }
+  
+  /* Style the tagline */
+  #header h5 {
+    font-size: 18px;
+  }
+  
+  /* Style the hero section */
+  #hero {
+    background-image: url('images/paper-1074131_1280.jpg'); /* Set the background image path */
+    background-size: cover;
+    background-position: center;
+    color: black;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  /* Style the welcome text */
+  #hero h2 {
+    font-size: 36px;
+  }
+  
+  /* Style the navigation buttons */
+  .nav-button {
+    background-color: green;
+    color: black;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s;
+  }
+  
+  .nav-button:hover {
+    background-color: darkgreen;
+  }
+  
+  /* Style the "Already Have an Account?" link */
+  .btn-about {
+    background-color: green;
+    color: black;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-about:hover {
+    background-color: darkgreen;
+  }
+
+  footer {
+    background-color: green;
+    color: black; /* You can adjust the text color to your preference */
+    text-align: center; /* Center the text within the footer */
+    padding: 10px; /* Add some padding for spacing */
+  }
+
+  /* Style the lion section */
+  #lion {
+    background-image: url('images/paper-1074131_1280.jpg'); /* Set the background image path */
+    background-size: cover;
+    background-position: center;
+    color: black;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  /* Style the register text */
+  #lion h2 {
+    font-size: 36px;
+  }
+
+  /* Style the cow section */
+  #cow {
+    background-image: url('images/paper-1074131_1280.jpg'); /* Set the background image path */
+    background-size: cover;
+    background-position: center;
+    color: black;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  /* Style the login text */
+  #cow h2 {
+    font-size: 36px;
+  }
+
+  .green-button {
+    background-color: green;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+
+.balance {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.action_button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    background-color: green; /* Green button color */
+    color: black;
+    border: none;
+    cursor: pointer;
+    text-decoration: none; /* Remove underlines on links */
+}
+
+/* Style the AIRTIME section */
+.airtime {
+    background-image: url('images/paper-1074131_1280.jpg'); /* Set the background image path */
+    background-size: cover;
+    background-position: center;
+    color: black;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  /* Style the login text */
+  #airtime h2 {
+    font-size: 36px;
+  }
+
+  
+
+  
+  
+  

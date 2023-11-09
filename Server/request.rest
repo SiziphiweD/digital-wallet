@@ -1,0 +1,79 @@
+POST http://localhost:3001/new-user
+Content-Type: application/json
+
+{
+    "firstname": "sizi",
+    "lastname": "dladla",
+    "email": "siziphiwes78945@gmail.com",
+    "account_number": "09876543221",
+    "phone_number": "0678929507268416",
+    "password":"mySecureP@ssword123",
+    "balance": 0
+}
+
+
+###
+
+POST http://localhost:3001/login
+Content-Type: application/json
+
+{
+    "email": "siziphiwes13@gmail.com",
+    "password":"mySecureP@ssword123"
+}
+
+###
+
+POST http://localhost:3001/user/
+Content-Type: application/json
+
+{
+    "phone_number": "0679335882"
+}
+
+###
+
+GET http://localhost:3001/users/
+
+###
+
+GET http://localhost:3001/delete-user/
+
+###
+GET http://localhost:3001/transaction-history/
+###
+POST http://localhost:3001/deposit-funds/
+Content-Type: application/json
+
+{
+    "amount" : 213.27
+}
+
+###
+
+
+###
+POST http://localhost:3001/buy-electricity/
+Content-Type: application/json
+
+{
+    "amount" : 20
+}
+
+###
+POST  http://localhost:3001/buy-airtime/
+Content-Type: application/json
+
+{
+    "amount" : 30
+}
+
+###
+POST  http://localhost:3001/send-money/6539789d7b1a2a0c629fc650
+Content-Type: application/json
+
+{
+   
+    "phone_number" : "0678929507",
+    "amount": 50.00
+}
