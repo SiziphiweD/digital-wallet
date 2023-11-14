@@ -11,7 +11,7 @@ This repository contains the source code for the Digital Wallet web application.
 
 ## Technologies Used
 - nodeJS
-- MongoBD
+- MongoDB
 - HTML
 - CSS
 - JavaScript
