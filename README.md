@@ -10,6 +10,8 @@ This repository contains the source code for the Digital Wallet web application.
 - **Quick Access to Funds:** Users can efficiently access their funds and perform various financial transactions.
 
 ## Technologies Used
+- nodeJS
+- MongoBD
 - HTML
 - CSS
 - JavaScript
@@ -29,13 +31,9 @@ This repository contains the source code for the Digital Wallet web application.
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Author
 <Tebogo Dipale> <Obakeng Michael Kuate> <Siziphiwe Dlamini>
 
-## Acknowledgments
 
 
 
